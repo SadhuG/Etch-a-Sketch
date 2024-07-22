@@ -2,6 +2,8 @@
 
 Welcome to the Etch a Sketch repository! This project is a simple webpage that features a grid canvas. As you hover your mouse cursor over it, you leave can fill in the colors and paint a masterpiece (a pixelated one) on your screen.
 
+It's built upon my [Trailing Tails](https://github.com/SadhuG/Trailing-Tails) repository.
+
 ## Features
 
 - **Interactive Grid Canvas**: The main feature of this project is the grid canvas. It's designed to respond to the user's mouse movements, fill a path as the cursor moves across the grid.
